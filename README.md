@@ -1,1 +1,1 @@
-# leetcode701_Insert-into-a-Binary-Search-Tree
+leetcode 701 insert into a BST solution
